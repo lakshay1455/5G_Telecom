@@ -24,7 +24,7 @@ The Dashboard shows many visuals which convey various insights, some of which ar
 
 #### Key Features
 - Advance DAX queries have been used
-- The feature of navigating across different visuals through replacing buttons has been extensively used
+- The feature of navigating across different visuals through buttons has been extensively used
 
 
 
