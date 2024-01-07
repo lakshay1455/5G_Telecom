@@ -20,7 +20,7 @@ The Dashboard shows many visuals which convey various insights, some of which ar
 
 #### Tools Used
 - Power BI has been used for the creation of the dashboard
-- MySQL has been used for Data Cleaning and data has been directly uploaded from MySQL
+- MySQL has been used for Data Cleaning(other transformations are done on Power BI itlself) and data has been directly uploaded from MySQL
 
 #### Key Features
 - Advance DAX queries have been used
