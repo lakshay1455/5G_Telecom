@@ -3,7 +3,7 @@ Hello World,
 This project is taken from Code Basics Resume Project Challenge.
 
 ## Dashboard Link
-[Click Here](https://www.novypro.com/project/5g-launch-telecom-domain){target="_blank"}
+[Click Here](https://www.novypro.com/project/5g-launch-telecom-domain)
 
 
 #### Project Title
