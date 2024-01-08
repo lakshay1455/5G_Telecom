@@ -23,8 +23,8 @@ The Dashboard shows many visuals which convey various insights, some of which ar
 - MySQL has been used for Data Cleaning(other transformations are done on Power BI itlself) and data has been directly uploaded from MySQL
 
 #### Key Features
-- Advance DAX queries have been used
-- The feature of navigating across different visuals through buttons has been extensively used
+- Advance DAX has been used including 'HASONEFILTER', 'SELECTEDVALUE', 'CALCULATE', variable creation etc.
+- The feature of navigating across different visuals through buttons has been extensively used.
 
 
 
